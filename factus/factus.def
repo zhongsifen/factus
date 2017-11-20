@@ -1,0 +1,26 @@
+LIBRARY	"factus"
+
+EXPORTS
+	factus_new
+	factus_delete
+	factus_open
+	factus_close
+	factus_load
+;	factus_save
+	factus_show_base
+	factus_show_curr
+	factus_proc_alpha
+	factus_proc_beta
+	factus_proc_transform
+	factus_set_stat
+
+	keyblock_detect
+	keyblock_show
+
+	factus_app_new
+	factus_app_delete
+	factus_app_set
+	factus_app_0
+	factus_app_1
+	factus_app_2
+
